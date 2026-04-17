@@ -10,7 +10,7 @@ Funcionalidades
 - Resultado automático da partida
 - Atualização dinâmica da interface
 
-Tecnologias utilizadas:
+Formatações e línguagem aplicada
 
 - HTML5
 - CSS3
